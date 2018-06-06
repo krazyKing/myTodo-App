@@ -9,7 +9,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "build-gh": "ng build --prod --base-href \"/todo-app/\"",
+    "build-gh": "ng build --prod --base-href \"/myToDo-app/\"",
     "deploy-to-ghpages": "npm run build-gh && ngh"
   },
   "private": true,
